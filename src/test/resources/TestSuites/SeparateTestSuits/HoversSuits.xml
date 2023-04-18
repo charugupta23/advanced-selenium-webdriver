@@ -1,0 +1,9 @@
+<suite name="DropdownTestSuite" verbose="1">
+
+    <test name="HoversTests">
+        <classes>
+            <class name="com.herokuapp.theinternet.hoverspagetests.HoversTests" />
+        </classes>
+    </test>
+
+</suite>

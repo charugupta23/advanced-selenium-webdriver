@@ -1,0 +1,13 @@
+<suite name="DropdownTestSuite" verbose="1">
+
+    <test name="keyPressTests">
+        <classes>
+            <class name="com.herokuapp.theinternet.presskeyspagetests.PressKeysTests">
+                <method>
+                    <include name="pressKeyWithActionsTest"></include>
+                </method>
+            </class>
+        </classes>
+    </test>
+
+</suite>
